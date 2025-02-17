@@ -29,9 +29,9 @@ namespace platformService.Data
             return _context.Platforms.FirstOrDefault(p => p.Id == id) ?? new Platform();
         }
 
-        public bool SaveChanges()
+        public void SaveChanges()
         {
-            return (_context.SaveChanges() >= 0);
+            _context.SaveChanges();
         }
     }
 }

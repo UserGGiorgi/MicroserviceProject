@@ -69,3 +69,4 @@ C:\Users\Giorgi\source\repos\MicroserviceProject\PlatformService\obj\Debug\net6.
 C:\Users\Giorgi\source\repos\MicroserviceProject\PlatformService\obj\Debug\net6.0\PlatformService.pdb
 C:\Users\Giorgi\source\repos\MicroserviceProject\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
 C:\Users\Giorgi\source\repos\MicroserviceProject\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
+C:\Users\Giorgi\source\repos\MicroserviceProject\PlatformService\obj\Debug\net6.0\PlatformService.sourcelink.json
